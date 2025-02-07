@@ -1,0 +1,6 @@
+ERROR:root:Error fetching data for Sunnyside from Renewables Ninja API: 429 - Error: Reached short-term burst limit (1/second) Expected available in 1 second.
+ERROR:root:Error fetching data for Denmilne Summerhouse from Renewables Ninja API: 429 - Error: Reached short-term burst limit (1/second) Expected available in 1 second.
+ERROR:root:Error fetching data for Clyde Cycle Park from Renewables Ninja API: 429 - Error: Reached short-term burst limit (1/second) Expected available in 1 second.
+ERROR:root:Error fetching data for Sunnyside from Renewables Ninja API: 429 - Error: Reached short-term burst limit (1/second) Expected available in 1 second.
+ERROR:root:Error fetching data for Denmilne Summerhouse from Renewables Ninja API: 429 - Error: Reached short-term burst limit (1/second) Expected available in 1 second.
+ERROR:root:Error fetching data for Clyde Cycle Park from Renewables Ninja API: 429 - Error: Reached short-term burst limit (1/second) Expected available in 1 second.
